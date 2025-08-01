@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of bike sales, including an inter
 
 ## 📊 Dashboard Preview
 
-<img src="bike-sales-dashboard.png" alt="Bike Sales Dashboard" width="600" />
+<img src="bikesalesdashboard.png" alt="Bike Sales Dashboard" width="600" />
 
 ## 🚀 How to Use
 
