@@ -16,6 +16,3 @@ This project provides a comprehensive analysis of bike sales, including an inter
 1. Open the Excel file to view and interact with the sales analysis dashboard.
 2. Review the dashboard image for a quick visual summary of the data.
 
-## 👤 Author
-
-Created by johndrubo.
