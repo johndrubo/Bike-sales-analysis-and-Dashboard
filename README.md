@@ -5,11 +5,11 @@ This project provides a comprehensive analysis of bike sales, including an inter
 ## 📁 Files Included
 
 - **Bike sales analysis and Dashboard.xlsx**: Explore sales data, trends, and insights in Excel format.
-- **bike sales dashboard.png**: Visual dashboard summarizing key metrics and findings.
+- **bike-sales-dashboard.png**: Visual dashboard summarizing key metrics and findings.
 
 ## 📊 Dashboard Preview
 
-<img src="bike sales dashboard.png" alt="Bike Sales Dashboard" width="600" />
+<img src="bike-sales-dashboard.png" alt="Bike Sales Dashboard" width="600" />
 
 ## 🚀 How to Use
 
